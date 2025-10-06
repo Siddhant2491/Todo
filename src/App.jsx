@@ -61,6 +61,4 @@ function App() {
   )
 }
 
-// https://github.com/hiteshchoudhary/chai-aur-react/blob/main/todoContextapiNotes.md
-
 export default App
